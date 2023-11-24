@@ -9,6 +9,8 @@
 5. Search & Filters
 6. Location wise Flats recommendation
 
+**Skills :** HTML . CSS . PHP . MYSQL . XAMPP
+
 **Note :** This project was created in a very short time. So, featues are quite limited and the recommendation system was also simplified.
 
 Here are some of the webpages of my project:
